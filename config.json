@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterupdate",
+        "uuid": 5937390,
+        "checksum": "aiifas"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
